@@ -30,6 +30,7 @@ build/
 #gradle
 .gradle/
 
-
+.target/
+target/
 .gitignore
 
