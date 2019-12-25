@@ -1,4 +1,4 @@
-package com.alions;
+package java.alions;
 
 public class A {
 }

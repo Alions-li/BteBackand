@@ -33,6 +33,6 @@
 	<!-- 切面 -->
 	<aop:config>
 		<aop:advisor advice-ref="txAdvice"
-			pointcut="execution(* com.alions.service.*.*(..))" />
+			pointcut="execution(* java.alions.service.*.*(..))" />
 	</aop:config>
 </beans>

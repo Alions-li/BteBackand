@@ -1,4 +1,4 @@
-package com.alions.pojo;
+package java.alions.pojo;
 
 import com.sun.xml.internal.ws.developer.Serialization;
 
