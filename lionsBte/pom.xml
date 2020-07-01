@@ -29,7 +29,7 @@
         <!-- log4j日志文件管理包版本 -->
         <slf4j.version>1.7.7</slf4j.version>
         <log4j.version>1.2.17</log4j.version>
-        <mysqlConnect.version>5.1.36</mysqlConnect.version>
+        <mysqlConnect.version>8.0.16</mysqlConnect.version>
         <mybatis-spring.version>1.2.2</mybatis-spring.version>
         <fastjson.version>1.2.47</fastjson.version>
         <jstl.version>1.2</jstl.version>
